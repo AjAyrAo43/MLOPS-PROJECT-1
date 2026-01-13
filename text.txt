@@ -1,0 +1,4 @@
+ajayrao4376_db_user
+U5PqI22Cfez8EZfw
+
+mongodb+srv://ajayrao4376_db_user:<db_password>@cluster0.q2wcm4e.mongodb.net/?appName=Cluster0            
