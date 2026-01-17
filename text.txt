@@ -4,3 +4,12 @@ U5PqI22Cfez8EZfw
 mongodb+srv://ajayrao4376_db_user:U5PqI22Cfez8EZfw@cluster0.q2wcm4e.mongodb.net/?appName=Cluster0
 
 $env:MONGODB_URL = "mongodb+srv://ajayrao4376_db_user:U5PqI22Cfez8EZfw@cluster0.q2wcm4e.mongodb.net/?appName=Cluster0"
+
+password
+dAUT/zPqEdLK+sNWolv0glB15MKEVRESsgfjkdyW
+key
+AKIAW4X465PI7X66DSM7
+
+
+$env:AWS_ACCESS_KEY_ID="AKIAW4X465PI7X66DSM7"
+$env:AWS_SECRET_ACCESS_KEY="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"
