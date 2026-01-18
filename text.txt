@@ -4,3 +4,6 @@ U5PqI22Cfez8EZfw
 mongodb+srv://ajayrao4376_db_user:U5PqI22Cfez8EZfw@cluster0.q2wcm4e.mongodb.net/?appName=Cluster0
 
 $env:MONGODB_URL = "mongodb+srv://ajayrao4376_db_user:U5PqI22Cfez8EZfw@cluster0.q2wcm4e.mongodb.net/?appName=Cluster0"
+
+ecr vehcileproj
+474050653137.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
